@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuel Calculator</string>
+    <string name="action_settings">设定值</string>
+    <string name="gas_value">汽油: 0</string>
+    <string name="etanol_value">乙醇: 0</string>
+    <string name="calculate">计算</string>
+    <string name="best_choice">" 最好的选择是:"</string>
+</resources>
